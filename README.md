@@ -15,9 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
-## **👨‍💻 About Me**  <br><br>### **🚀 I'm currently working on:**  <br>- **Full-stack development projects** using **React.js, Node.js, and Express.js**.  <br>- **Data Structures & Algorithms (DSA)** to improve problem-solving and coding efficiency.  <br>- Actively looking for **opportunities in web development and software development**.  <br><br>### **🤝 I'm looking to collaborate on:**  <br>- Open-source projects related to **web development, API integrations, and full-stack applications**.  <br>- Building **React-based UI components** and optimizing backend performance.  <br><br>### **❓ I'm looking for help with:**  <br>- **Cloud computing and DevOps**, particularly in **AWS and Docker**.  <br>- **Advanced backend optimizations** and database performance tuning.  <br><br>### **📚 I'm currently learning:**  <br>- **System design concepts** to build scalable and efficient applications.  <br>- **Cloud platforms like AWS** for better backend deployment and management.  <br>- **Advanced JavaScript patterns** to improve frontend performance.  <br><br>### **💬 Ask me about:**  <br>- **Frontend Development:** React.js, JavaScript, Bootstrap.  <br>- **Backend Development:** Node.js, Express.js, REST APIs.  <br>- **Problem-Solving:** Data structures, algorithms, and coding best practices.  <br><br>### **🎉 Fun Fact:**  <br>💡 *I love debugging complex issues—it feels like solving a mystery! Also, I code best when listening to instrumental music.* 🎧💻  <br><br>---
+## 💫 About Me  
 
+🔨 **I'm currently working on** Full-stack development, DSA, and building scalable applications.  
+🤝 **I'm looking to collaborate on** Web development, software development, open-source projects, and API integrations.  
+❓ **I'm looking for help with** Cloud computing (AWS, Docker), CI/CD, DevOps, and backend optimizations.  
+📚 **I'm currently learning** System design, DSA, practicing LeetCode problems, advanced JavaScript, and database performance tuning.  
+💬 **Ask me about** React.js, Node.js, REST APIs, and problem-solving techniques.  
+🎉 **Fun fact** I enjoy debugging like solving puzzles & code best with instrumental music! 🎧💻  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mallikarjun-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmallikarjun4368@gmail.com@gmail.com) 
