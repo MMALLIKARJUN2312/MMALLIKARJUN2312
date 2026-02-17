@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ❓ **I'm looking for help with Cloud computing (AWS, Docker), CI/CD, DevOps, and backend optimizations.**  
 📚 **I'm currently learning System design, DSA, practicing LeetCode problems, and advanced JavaScript.**  
 💬 **Ask me about Web development and problem-solving techniques.**  
-🎉 **Fun fact - I enjoy debugging like solving puzzles & code best with instrumental music! 🎧💻**
+🎉 **Fun fact - I enjoy debugging like solving puzzles & code best with music! 🎧💻**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mallikarjun-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mmallikarjun4368@gmail.com) 
